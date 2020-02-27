@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://aleks:Aleks851796!@cluster0-dznwh.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secrettoken",
+  "client_id": "46d4910d4e53fbf46dcc",
+  "client_secret": "9434a436f1ebef26bc53096ece6932e091fced57"
+}
